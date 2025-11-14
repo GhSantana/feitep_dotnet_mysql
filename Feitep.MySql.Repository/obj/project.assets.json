@@ -2304,11 +2304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
       "projectName": "Feitep.MySql.Repository",
-      "projectPath": "c:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2323,8 +2323,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
-              "projectPath": "c:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
+            "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+              "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
             }
           }
         }
