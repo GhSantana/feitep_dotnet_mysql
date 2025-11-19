@@ -8,7 +8,7 @@ public class SistemaContextFactory : IDesignTimeDbContextFactory<SistemaContext>
 {
     public SistemaContext CreateDbContext(string[]? args = null)
     {
-        var host = "localhost";
+        var host = "localhost";  
         var user = "root";
         var senha = "root";
         var database = "feitepbd";

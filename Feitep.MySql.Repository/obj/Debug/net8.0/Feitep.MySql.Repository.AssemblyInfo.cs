@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feitep.MySql.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1979f76b5c2cb75a0172484dc43bf9b26e59888c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31773230fab3172c9c4e6b328d588eacdbac158d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feitep.MySql.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feitep.MySql.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
